@@ -14,9 +14,7 @@ black=(0,0,0)
 #creating window
 screen_width=800
 screen_height=500
-gamewindow=pygame.display.set_mode((screen_width, screen_height))import pygame
-import random
-import os
+gamewindow=pygame.display.set_mode((screen_width, screen_height))
 pygame.mixer.init()
 
 pygame.init()
